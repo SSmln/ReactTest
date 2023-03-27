@@ -17,6 +17,15 @@ function App() {
         >
           Learn React
         </a>
+
+        <a
+          className="App-link" //추가 1
+          href="www.google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
